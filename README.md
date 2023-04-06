@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2AE24&width=435&lines=O+futuro+nos+pertence!;Novidades+em+breve.)](https://git.io/typing-svg)
 
 <p style="text-align: left;">
 
