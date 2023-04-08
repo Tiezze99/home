@@ -1,16 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2AE24&width=435&lines=O+futuro+nos+pertence!;Novidades+em+breve.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2AE24&width=435&lines=The+future+belongs+to+us!;News+soon.)](https://git.io/typing-svg)
 
 <p style="text-align: left;">
 
-    🚀 Estudante de sistemas.
+    🚀 Systems student.
     
-    🚀 Como meta procuro fazer parte de projetos significativos que possam servir de insetivo para outros programadores.
+    🚀 As a goal, I try to be part of projects that can serve as an incentive for other programmers.
     
-    🚀 Já tenho conhecimento em HTML e python atualmente estou aprendendo JavaScript e Java.
+    🚀 I already have knowledge in HTML and python I'm currently learning JavaScript and Java.
     
-    🚀 Cursando sistemas de informação na FAMETRO.
+    🚀 Studying information systems at FAMETRO.
     
-    🚀 Aos que acessarão aqui verão meu projetos do mais simples ao mais complexos, se tudo der certo rs.
+    🚀 Those who access here will see my projects from the simplest to the most complex, if everything works out lol.
     
 </p>
 
